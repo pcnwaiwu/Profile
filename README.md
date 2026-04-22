@@ -69,12 +69,12 @@ Driven to build secure, resilient systems by strengthening detection, response, 
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+## Certification
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CISM-007ACC?&style=for-the-badge&logo=ISACA&logoColor=white" />
-<img src="https://img.shields.io/badge/-PMP-007ACC?&style=for-the-badge&logo=pm&logoColor=white" />
+<img src="https://img.shields.io/badge/-GRC-007ACC?&style=for-the-badge&logo=ISACA&logoColor=white" />
+
 </div>
 
 ## Projects
