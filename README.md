@@ -1,18 +1,20 @@
 # Hello, I'm PHILIPPA
 <a href="www.linkedin.com/in/phil-nwaiwu-047760236"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Cybersecurity professional focused on NIST RMF, threat detection, and secure system design. Passionate about building resilient systems through strong security controls, incident response, and risk management.
+I am a cybersecurity professional, I focus on NIST RMF, threat detection, and secure system design, with a strong passion for building resilient systems through proactive security controls, incident response, and risk management.
+
+
 
 ## OBJECTIVE
 
 
-Cybersecurity professional specializing in the full lifecycle of system security using NIST RMF, from system categorization and security control selection to implementation, assessment, authorization, and continuous monitoring.
+Cybersecurity professional with expertise in the full system security lifecycle under NIST RMF, from categorization and control selection to implementation, authorization, and continuous monitoring.
 
-My intrest includes Threats, Attacks & Vulnerabilities mitigation; Architecture Design and Implementation; Operations & Incident Response; and Governance, Risk & Compliance with additional focus on AI Security principles for securing modern intelligent systems (LLMs).
+Focused on threat and vulnerability mitigation, secure architecture, incident response, and governance, risk, and compliance, with additional emphasis on AI security for modern intelligent systems such as LLMs.
 
-Experienced in aligning enterprise environments with leading frameworks and regulations including ISO 27001–27005, PCI-DSS v4.0, SOC 2 & SOC 3, SOX, HIPAA, GDPR, and CCPA.
+Skilled in aligning enterprise environments with frameworks including ISO 27001–27005, PCI DSS v4.0, SOC 2/3, SOX, HIPAA, GDPR, and CCPA.
 
-Passionate about designing secure architectures, strengthening detection and response capabilities, and delivering risk-informed security solutions that protect critical systems and data in real-world environments.
+Driven to build secure, resilient systems by strengthening detection, response, and risk-informed security strategies.
 
 ## SKILLS/DOMAINS
 
