@@ -35,11 +35,11 @@ Driven to build secure, resilient systems by strengthening detection, response, 
 
 ## PROJECT
 
-## Bundle EHR GRC Project Portfolio
+## Vault EHR GRC Project Portfolio
 
 | Project | Description |
 |--------|------------|
-| SYSTEM OVERVIEW AND BOUNDARY DEFINITION |  <a href="https://github.com/edwardchibuzo/Architecture_Diagram.png">The Definition of Bundle</a> |
+| SYSTEM OVERVIEW AND BOUNDARY DEFINITION |  <a href="https://github.com/edwardchibuzo/Architecture_Diagram.png">The Definition of Vault</a> |
 | Enterprise Risk Register | Risk identification, scoring, tracking, and executive reporting dashboard |
 | FedRAMP Moderate Implementation | Control mapping and compliance alignment for cloud systems |
 | Continuous Monitoring Program | POA&M tracking, vulnerability management, and audit readiness |
